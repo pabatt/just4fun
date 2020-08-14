@@ -1,0 +1,19 @@
+{
+  "name": "wbpkandother",
+  "version": "1.0.0",
+  "description": "just 4 fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabatt/just4fun.git"
+  },
+  "author": "pabatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabatt/just4fun/issues"
+  },
+  "homepage": "https://github.com/pabatt/just4fun#readme"
+}
